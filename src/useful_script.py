@@ -1,3 +1,3 @@
 #!/usr/bin/env python
 
-print('This is a useful script')
+print('This is NOT a useful script')
